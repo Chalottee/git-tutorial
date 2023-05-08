@@ -1,1 +1,1 @@
-console.log('ssh updated 2');
+console.log('ssh updated ');
